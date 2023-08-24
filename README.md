@@ -22,7 +22,7 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 ```
-/*/*
+/*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Chandramohan S
 RegisterNumber:  212221223002
@@ -65,9 +65,7 @@ print("MAE= ",mae)
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
 ```
-
 ## Output:
-
 ![simple linear regression model for predicting the marks scored](sam.png)
 # df.head()
 ![Screenshot 2023-08-24 141423](https://github.com/chandramohan3/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/142579775/26905b7a-453e-4e02-b1ec-16b149b5b3c5)
