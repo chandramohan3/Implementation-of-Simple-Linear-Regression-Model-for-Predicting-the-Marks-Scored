@@ -7,12 +7,18 @@ To write a program to predict the marks scored by a student using the simple lin
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
+## Algorithm:
+
 1.Import the standard Libraries.
+
 2. Set variables for assigning dataset values.
+  
 3. Import linear regression from sklearn.
+   
 4. Assign the points for representing in the graph.
+ 
 5.Predict the regression for marks by using the representation of the graph.
+
 6.Compare the graphs and hence we obtained the linear regression for the given datas.
 
 ## Program:
@@ -85,7 +91,7 @@ print("RMSE= ",rmse)
 ![Screenshot 2023-08-24 141903](https://github.com/chandramohan3/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/142579775/c277e823-cb79-4bca-ac0e-00963d8f0795)
 
 # Test set graph
-![Screenshot 2023-08-24 141914](https://github.com/chandramohan3/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/142579775/38f5b6a1-c171-4788-985e-3f93592cb273)
+![Screenshot 2023-08-24 162012](https://github.com/chandramohan3/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/142579775/96bfd221-3ac2-4197-a254-178f581c241a)
 
 # Values of MSE,MAE and RMSE
 ![Screenshot 2023-08-24 141920](https://github.com/chandramohan3/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/142579775/56c42b36-03cb-4fc6-8a25-4c84fbee14d3)
